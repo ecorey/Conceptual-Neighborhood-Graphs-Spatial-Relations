@@ -2,15 +2,15 @@
 
 ![CNG Image](./CNG.JPG)
 
-# _CNG1 from attached program:_
+# _CNG1 from this program:_
 
 ![CNG1 Image](./CNG1.png)
 
-# _CNG2 from attached program:_
+# _CNG2 from this program:_
 
 ![CNG2 Image](./CNG2.png)
 
-# _CNG3 from attached program:_
+# _CNG3 from this program:_
 
 ![CNG3 Image](./CNG3.png)
 
